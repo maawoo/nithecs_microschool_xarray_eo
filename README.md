@@ -8,3 +8,4 @@ Empowering Multidimensional Data Analysis"
     - [Notebook](https://colab.research.google.com/github/maawoo/nithecs_microschool_xarray_eo/blob/main/01_intro_to_xarray.ipynb)
 - 2025-03-28: "Unlocking Earth Observation Data – Access and Analysis with Xarray Ecosystem Tools"
     - [Info](https://nithecs.ac.za/wp-content/uploads/2025/03/2025-03-28-NITheCS-Micro-school.pdf)
+    - [Notebook](https://colab.research.google.com/github/maawoo/nithecs_microschool_xarray_eo/blob/main/02_unlock_eo_data.ipynb)
