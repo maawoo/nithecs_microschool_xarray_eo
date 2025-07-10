@@ -6,6 +6,8 @@ This repository contains Jupyter notebooks that were presented as part of the Na
 Empowering Multidimensional Data Analysis"
     - [Info](https://nithecs.ac.za/wp-content/uploads/2025/03/2025-03-14-NITheCS-Micro-school.pdf)
     - [Notebook](https://colab.research.google.com/github/maawoo/nithecs_microschool_xarray_eo/blob/main/01_intro_to_xarray.ipynb)
+    - [Video recording](https://www.youtube.com/watch?v=SH7Xdmqz83c)
 - 2025-03-28: "Unlocking Earth Observation Data – Access and Analysis with Xarray Ecosystem Tools"
     - [Info](https://nithecs.ac.za/wp-content/uploads/2025/03/2025-03-28-NITheCS-Micro-school.pdf)
     - [Notebook](https://colab.research.google.com/github/maawoo/nithecs_microschool_xarray_eo/blob/main/02_unlock_eo_data.ipynb)
+    - [Video recording](https://www.youtube.com/watch?v=o4I_nuROrug)
